@@ -1,0 +1,25 @@
+{
+  "name": "tone-js-practice",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooroom/tone-js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mooroom/tone-js-practice/issues"
+  },
+  "homepage": "https://github.com/mooroom/tone-js-practice#readme",
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "tone": "^14.7.77"
+  }
+}
